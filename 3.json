@@ -1,0 +1,28 @@
+{
+    "name": "全能签源",
+    "identifier": "https://udid.nuosike.cn/appstore",
+    "sourceURL": "https://udid.nuosike.cn/appstore/app.json",
+    "apps": [
+        {
+            "name": "软件名称",
+            "version": "版本号",
+            "versionDate": "2020-10-19",
+            "versionDescription": "软件说明",
+            "downloadURL": "ipa安装包地址",
+            "iconURL": "图标地址",
+            "tintColor": "按钮颜色",
+            "size": 文件大小
+        },
+                {
+            "name": "软件名称",
+            "version": "1.0",
+            "versionDate": "2020-10-19",
+            "versionDescription": "软件说明换行用\n符号",
+            "downloadURL": "例如http://xxx.ipa",
+            "iconURL": "例如http://xxx.png",
+            "tintColor": "018084",
+            "size": 2371320
+        }
+        }
+    ]
+}
