@@ -3,25 +3,25 @@
     "identifier": "https://raw.githubusercontent.com/banaisakula/2/main/3",
     "sourceURL": "https://raw.githubusercontent.com/banaisakula/2/main/3.json",
     "apps": [
-        {
-            "name": "软件名称",
-            "version": "版本号",
-            "versionDate": "2020-10-19",
-            "versionDescription": "软件说明",
-            "downloadURL": "ipa安装包地址",
-            "iconURL": "图标地址",
-            "tintColor": "按钮颜色",
-            "size": 文件大小
+       {
+            "name": "unc0ver",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "鏀寔11.0-13.5鐨勬墍鏈夎澶囪秺鐙盶n涓昏閽堝閮ㄥ垎鏃ц澶囨坊鍔犱簡iOS12.3-12.3.1鍜�12.4.1-12.4.8鐨勬敮鎸�",
+            "downloadURL": "https://ipawj.nuosike.cn/ipa/YYlIl-lIl/531_unc0ver.ipa",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
         },
                 {
-            "name": "软件名称",
-            "version": "1.0",
-            "versionDate": "2020-10-19",
-            "versionDescription": "软件说明换行用\n符号",
-            "downloadURL": "例如http://xxx.ipa",
-            "iconURL": "例如http://xxx.png",
+            "name": "un",
+            "version": "1.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "GM鍙樻€佹湇鎵嬫父鐩掑瓙\n鐧炬鍙樻€佹墜娓革紝瑁呭鐢变綘鍋氫富",
+            "downloadURL": "https://wuyousy.oss-cn-beijing.aliyuncs.com/games/ios/nk906331/yxhz_nk906331.ipa",
+            "iconURL": "https://app.nk8686.com/uploads/20201031/98b9014ee6a38613452499f0c48bc9fc.png",
             "tintColor": "018084",
-            "size": 2371320
+            "size": 33774632.96
         }
         }
     ]
