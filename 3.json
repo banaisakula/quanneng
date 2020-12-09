@@ -3,43 +3,295 @@
     "identifier": "https://raw.githubusercontent.com/banaisakula/2/main/3",
     "sourceURL": "https://raw.githubusercontent.com/banaisakula/2/main/3.json",
     "apps": [
- {
-            "name": "全能签",
-            "bundleIdentifier": "qnq.nuosike.sign",
-            "developerName": "Nsk",
-            "version": "3.3",
-            "versionDate": "2020-12-06",
-            "versionDescription": "一款手机端的ipa签名工具\n导入P12证书以及安装包即可签名\n可本地直接安装ipa包\n更新一键恢复证书!兑换输入8888导入企业证书",
-            "downloadURL": "https://ipawj.nuosike.cn/ipa/3.3_全能签.ipa",
-            "localizedDescription": "更新一键恢复证书!兑换输入8888导入企业证书",
-            "iconURL": "https://qnq.nuosike.cn/uploads/20200920/110fa335493e1bb6d157a954952c0a69.png",
-            "tintColor": "018084",
-            "size": 3883014.4
-        },
-                                        {
-            "name": "esign",
-            "version": "1.1",
-            "versionDate": "2020-12-06",
-            "versionDescription": "GM变态服手游盒子\n百款变态手游，装备由你做主",
-            "downloadURL": "https://vip.d0.baidupan.com/file/?A2VVaw08AjNUXQM7U2ZXOwQ7Bz9QSlABVTtUNVZkBlgBMAdmWzYCYFY5C2sDZQI6A2oFMgNyUToKfVE2UylVMgNqVW4NNQIJVGsDMVM6V2UEbQc0UDpQYlVrVGBWOwYhAWcHI1s7AmRWOAtvA2ACMgNgBTcDelEjCn1RalM9VWQDMVUyDX8CZ1QwA3pTN1dlBHEHMlA9UGVValRmVj4GMgE3BzFbPwI0VjYLaQNiAjIDPwVjA2pRYgo9UTZTaVU2A2dVOg1mAjNUMwMxUzBXYQRqByxQZlAiVTNUdFZ/BnQBZAciW28CMlY9C2QDZAI3A2gFMQNpUXUKeVE+U2JVMQNlVT8NYQJgVDIDYlMyV2QEbgc3UD5Qa1V8VHRWfwZ3ATwHYVsoAnBWZgsxAyACPgNoBTYDbFFkCjhRZlM3VWMDO1UwDXYCI1RyAyJTOldnBGgHMlA5UGtVZFRkVj4GMAE0B3ZbcwI/VnALYANlAjEDawUuA21RYAo6UXlTOVVhAy1VMw1jAm4=",
-            "iconURL": "https://app.nk8686.com/uploads/20201031/98b9014ee6a38613452499f0c48bc9fc.png",
-            "tintColor": "018084",
-            "size": 33774632.96
-        },                            {
+       {
             "name": "unc0ver",
             "version": "5.3.1",
             "versionDate": "2020-12-06",
-            "versionDescription": "支持11.0-13.5的所有设备越狱\n主要针对部分旧设备添加了iOS12.3-12.3.1和12.4.1-12.4.8的支持",
+            "versionDescription": "12.4.1-12.4.8",
             "downloadURL": "https://ipawj.nuosike.cn/ipa/YYlIl-lIl/531_unc0ver.ipa",
             "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
             "tintColor": "018084",
             "size": 41953525.76
-        }
-	    ,  
-	       {
-            "name": "tiktok",
+        },
+          {
+            "name": "蚂蚁书签无广告",
             "version": "5.3.1",
-	"downloadURL": "https://vip.d0.baidupan.com/file/?A2VQblloADFUXVdvCz4AbFNsVGxQWwtgBWkHVVVmB20G4AfdXKNS4wDaBOhQ4waOUoADWVA+BTEHLldnBXdQZAMtUG5ZdAA1VCRXZws2AG1TbFQOUGYLbQU/BzJVOgcxBjcHZVw3UjIAYAR0UGIGdFI1Az9QOAU0BzVXYwVuUGEDN1AhWXQAJFQ/VzMLbwAzUzlUflA+CzsFLQcxVT0HKQY3B2lcOVJlAGYEZVA1BjNSMAM0UD0FMAc3VzIFbFA0AzdQP1lnAGZUYVc0C28ANFM+VDdQbAs5BTMHZFVsBz4GKAc5XHFSZwBwBCdQdwZiUnoDb1BrBToHOVdiBW1QYAMyUDJZIgAgVGtXbAs6AGdTNFRgUDkLOQU1BzRVOwc2Bj4HYlw0UigAcAQnUHQGOlI5AyhQKQVhB2xXJgVkUGADNVA3WTMAYVQzVzcLbQA1UzBUd1B6C3kFdQc8VTgHMAY2B2dcMVIwAG4EZVA3Bj5SLgNzUGYFdwc9V2MFa1BjAy1QNlk3AGNULFc3C2oAL1M4VGJQNw==",
-		       }
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "https://bismih.lanzous.com/iNiV5j7hngh",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "千禾影视",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "https://vip.d0.baidupan.com/file/?VzFbZQs6VGVRWAU9BjMHa1plATlT6QSLVtIH5lGrB7gF4FG7CORX6wj5UYEKAVFhBmpUYVQ8CzgHNQcyVz1SY1dkWyILP1RwUWYFdQY0B29abAFhU1MEb1Y1BzxRPgc1BTJRMAhtVzMIZlE1CnhRNgYvVGxUOAs4BzUHMFc8UmRXYFs5C3BUcFF3BW4GYAc2WjIBNFMjBDdWYwcuUT0HMwUqUTUINlc3CDxRPwo4UTYGalRgVDgLawc3B2JXaFJjV2Fbags3VDVRZAUwBmsHN1oyATRTNQQ0VmcHYlE+BzcFNFEoCDxXcwg/USEKK1EjBjlUI1RiC20HPQcwVzpSYVdkWzULYVQyUSEFJwY7B2taZQFiUzEEN1ZnBzFROgczBTdRNwhkVzIIb1EpCnhRJQYsVGxUOgsnByYHZ1dnUiRXals9C2BUMFEwBWYGYAc2WjABNVM+BCBWJAdxUXoHOwU0UTAIZVc0CG9RMgptUWYGaVRpVC0LfAdpB3FXNlJhV2VbPgt4VDFRNAVkBnwHMFo1ASpTPQQ1Vmk=",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "阿哥美剧",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "https://vip.d0.baidupan.com/file/?VzEFOww9BjdSWwQ8Cz5VOQE+Bj5Q5gacArpauVeYVvIG4QbvC9gHtgjXC/oCCQY2VDhQZQVsAzlWaFBuXTgEMVduBXwMOAYiUmUEdAs5VT0BNwZmUFAGbQJhWmFXOFZkBjAGYAthB2IIawtkAnAGYVR9UGgFawM4VmNQbl04BDxXZgVnDHcGIlJ0BG8LbVVkAWkGM1AgBjUCN1pzVztWZQYpBmcLZwdrCDoLOAJuBmRUN1A0BWIDM1Y1UDJdYwQwVzQFZwxlBmJSYAQ3C2hVNgFiBjpQPQZiAmBablc6VjQGMAZ/Cz8HIwg/C3sCIwZ0VGtQJwUzA2VWbFBnXTAEN1dkBWsMZgZgUiIEJgs2VTkBPgZlUDIGNQIzWmxXPFZiBjQGYAtnB2IIaAtzAnAGclR+UGgFawMvVndQMF1tBHJXagVjDGcGYlIzBGcLblVhAW0GMFA/BiICcFosV3xWagY3BmcLZgdlCGYLZAJvBjVUP1BsBXwDdFY4UCZdPAQ3V2UFYAx/BmNSNwRlC3FVYgFuBi1QPgY3Aj0=",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "新爱美剧",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "https://vip.d0.baidupan.com/file/?VzFRbwo7ADFWXwQ8UWQCbltkUGgCu1TAVuFXtgXRUuIB5lG4Dt0EtQfYC/oBClVlWzcDNgduATtXZ1BgVjpaaVdnUSgKPgAkVmEEdFFjAmpbbVAwAgJUP1Y1V2wFalJgATRRPw5kBGUHZgtvAXNVMltyAzsHbAE0V2lQY1YzWmlXZVEwCnEAJFZwBG9RNwIzWzNQZQJyVGdWY1d+BWlSYQEuUWUOMgQyB2YLbgFnVTJbZwNjBz0BNVdpUDRWOlpvV2BRPgpiAGFWMQRjUWACZVtgUG0COFRmVmJXZwU9UjUBM1EoDjoEIAcwC3sBIFUnW2QDdAcxAWdXbVBnVjtaaVdkUT8KYABmViYEJlFsAm5bZFAzAmBUZ1ZnV2EFblJmATNRNw5iBGEHaQtzAXNVIVtxAzsHaQEtV3ZQMFZmWixXalE3CmEAZFY3BGdRNAIyWzdQYgJqVHBWJFchBS5SbgEwUTAOYwRmB2kLagFjVWVbMwM/B34Bdlc5UCZWN1ppV2VRNAp5AGVWMwRlUSsCNVs0UHsCbFRlVmk=",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        },
+        {
+            "name": "xxx",
+            "version": "5.3.1",
+            "versionDate": "2020-12-06",
+            "versionDescription": "12.4.1-12.4.8",
+            "downloadURL": "xxx",
+            "iconURL": "https://ae01.alicdn.com/kf/Uf9b522caf8714a9dbdd4ab973c03559d3.png",
+            "tintColor": "018084",
+            "size": 41953525.76
+        }
     ]
 }
