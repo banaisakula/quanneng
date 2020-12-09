@@ -1,7 +1,7 @@
 {
-    "name": "全能签源",
-    "identifier": "https://udid.nuosike.cn/appstore",
-    "sourceURL": "https://udid.nuosike.cn/appstore/app.json",
+    "name": "绊爱源",
+    "identifier": "https://raw.githubusercontent.com/banaisakula/2/main/3",
+    "sourceURL": "https://raw.githubusercontent.com/banaisakula/2/main/3.json",
     "apps": [
         {
             "name": "软件名称",
