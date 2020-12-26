@@ -1,10 +1,10 @@
 {
-    "name": "绊爱源",
+    "name": "绊爱源1",
     "identifier": "https://raw.githubusercontent.com/banaisakula/2/main/3",
     "sourceURL": "https://raw.githubusercontent.com/banaisakula/2/main/3.json",
     "apps": [
        {
-            "name": "unc0ver",
+            "name": "unc0ver111",
             "version": "5.3.1",
             "versionDate": "2020-12-06",
             "versionDescription": "12.4.1-12.4.8",
@@ -15,7 +15,7 @@
         },
           {
             "name": "tiktok1",
-            "version": "5.3.1",
+            "version": "1.0.0",
             "versionDate": "2020-12-06",
             "versionDescription": "12.4.1-12.4.8",
             "downloadURL": "https://ipawj.nuosike.cn/ipa/YYlIl-lIl/531_unc0ver.ipa",
